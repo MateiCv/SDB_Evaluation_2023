@@ -1,0 +1,6 @@
+1207228 Saga Bucuresti 0 100 28.07.2023 06.08.2023 https://github.com/
+6472398 Untold Cluj-Napoca 4 1000 04.08.2023 10.08.2023 https://flexiple.com/python/python-string-contains/
+9502498 tomorrowland Berlin 2 100 14.08.2023 18.08.2023 https://www.quora.com/How-do-you-print-an-image-with-code-on-Python
+9869840 Ham Cluj-Napoca 0 4 10.12.2023 11.12.2023 https://mxctech.com
+9323789 Smecherie Rarau 20 82 10.11.2023 11.12.2023 https://mxctech.com
+1546858 Festival Bucovina 10 10 10.11.2023 11.11.2023 https://youtube.com
